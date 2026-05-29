@@ -1,7 +1,7 @@
 url: https://next.useorgx.com/api/health
-status: down
-code: 521
-responseTime: 144
-lastUpdated: 2026-05-28T23:31:25.219Z
+status: up
+code: 200
+responseTime: 1550
+lastUpdated: 2026-05-29T02:11:51.871Z
 startTime: 2026-04-15T13:56:55.643Z
 generator: Upptime <https://github.com/upptime/upptime>
