@@ -1,7 +1,7 @@
 url: https://useorgx.com/api/health
-status: up
-code: 200
-responseTime: 2057
-lastUpdated: 2026-06-24T23:27:33.276Z
+status: down
+code: 522
+responseTime: 19682
+lastUpdated: 2026-06-25T11:19:35.325Z
 startTime: 2026-04-15T13:56:50.265Z
 generator: Upptime <https://github.com/upptime/upptime>
