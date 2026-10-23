@@ -4,17 +4,17 @@
     "url": "https://useorgx.com",
     "icon": "https://icons.duckduckgo.com/ip3/useorgx.com.ico",
     "slug": "org-x-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.24%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.24%",
-    "time": 1209,
-    "timeDay": 774,
-    "timeWeek": 932,
-    "timeMonth": 826,
-    "timeYear": 1209,
+    "time": 1423,
+    "timeDay": 22547,
+    "timeWeek": 6356,
+    "timeMonth": 2229,
+    "timeYear": 1423,
     "dailyMinutesDown": {
       "2026-04-15": 25,
       "2026-04-24": 193,
@@ -22,7 +22,8 @@
       "2026-05-28": 805,
       "2026-06-26": 85,
       "2026-06-25": 762,
-      "2026-07-24": 78
+      "2026-07-24": 78,
+      "2026-10-23": 1
     }
   },
   {
