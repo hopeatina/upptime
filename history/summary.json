@@ -30,17 +30,17 @@
     "url": "https://useorgx.com/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/useorgx.com.ico",
     "slug": "org-x-api-health",
-    "status": "down",
-    "uptime": "98.89%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.89%",
-    "time": 2158,
-    "timeDay": 3331,
-    "timeWeek": 1966,
-    "timeMonth": 1619,
-    "timeYear": 2158,
+    "status": "up",
+    "uptime": "98.77%",
+    "uptimeDay": "76.30%",
+    "uptimeWeek": "96.61%",
+    "uptimeMonth": "99.22%",
+    "uptimeYear": "98.77%",
+    "time": 2155,
+    "timeDay": 2730,
+    "timeWeek": 1918,
+    "timeMonth": 1617,
+    "timeYear": 2155,
     "dailyMinutesDown": {
       "2026-04-15": 25,
       "2026-04-24": 193,
@@ -53,7 +53,7 @@
       "2026-08-22": 733,
       "2026-08-31": 267,
       "2026-08-30": 24,
-      "2026-11-10": 1
+      "2026-11-10": 341
     }
   },
   {
@@ -79,17 +79,17 @@
     "url": "https://next.useorgx.com/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/next.useorgx.com.ico",
     "slug": "org-x-staging",
-    "status": "down",
-    "uptime": "98.90%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.90%",
-    "time": 2233,
-    "timeDay": 3510,
-    "timeWeek": 1978,
-    "timeMonth": 1704,
-    "timeYear": 2233,
+    "status": "up",
+    "uptime": "98.78%",
+    "uptimeDay": "76.33%",
+    "uptimeWeek": "96.62%",
+    "uptimeMonth": "99.22%",
+    "uptimeYear": "98.78%",
+    "time": 2229,
+    "timeDay": 2788,
+    "timeWeek": 1908,
+    "timeMonth": 1693,
+    "timeYear": 2229,
     "dailyMinutesDown": {
       "2026-04-24": 192,
       "2026-05-29": 132,
@@ -101,7 +101,7 @@
       "2026-08-22": 733,
       "2026-08-31": 267,
       "2026-08-30": 23,
-      "2026-11-10": 0
+      "2026-11-10": 341
     }
   }
 ]
