@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.31%",
     "time": 1378,
-    "timeDay": 643,
-    "timeWeek": 782,
-    "timeMonth": 2197,
+    "timeDay": 0,
+    "timeWeek": 736,
+    "timeMonth": 2241,
     "timeYear": 1378,
     "dailyMinutesDown": {
       "2026-04-15": 25,
@@ -30,17 +30,17 @@
     "url": "https://useorgx.com/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/useorgx.com.ico",
     "slug": "org-x-api-health",
-    "status": "up",
+    "status": "down",
     "uptime": "98.78%",
-    "uptimeDay": "76.30%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "96.61%",
     "uptimeMonth": "99.22%",
     "uptimeYear": "98.78%",
-    "time": 2151,
-    "timeDay": 2658,
-    "timeWeek": 1876,
-    "timeMonth": 1612,
-    "timeYear": 2151,
+    "time": 2147,
+    "timeDay": 1383,
+    "timeWeek": 1827,
+    "timeMonth": 1636,
+    "timeYear": 2147,
     "dailyMinutesDown": {
       "2026-04-15": 25,
       "2026-04-24": 193,
@@ -53,7 +53,8 @@
       "2026-08-22": 733,
       "2026-08-31": 267,
       "2026-08-30": 24,
-      "2026-11-10": 341
+      "2026-11-10": 341,
+      "2026-11-12": 0
     }
   },
   {
@@ -68,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 464,
-    "timeDay": 173,
-    "timeWeek": 394,
-    "timeMonth": 780,
+    "timeDay": 0,
+    "timeWeek": 352,
+    "timeMonth": 781,
     "timeYear": 464,
     "dailyMinutesDown": {}
   },
@@ -79,16 +80,16 @@
     "url": "https://next.useorgx.com/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/next.useorgx.com.ico",
     "slug": "org-x-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "98.79%",
-    "uptimeDay": "76.33%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "96.62%",
     "uptimeMonth": "99.22%",
     "uptimeYear": "98.79%",
     "time": 2224,
-    "timeDay": 2713,
-    "timeWeek": 1891,
-    "timeMonth": 1681,
+    "timeDay": 2093,
+    "timeWeek": 2013,
+    "timeMonth": 1705,
     "timeYear": 2224,
     "dailyMinutesDown": {
       "2026-04-24": 192,
@@ -101,7 +102,8 @@
       "2026-08-22": 733,
       "2026-08-31": 267,
       "2026-08-30": 23,
-      "2026-11-10": 341
+      "2026-11-10": 341,
+      "2026-11-12": 0
     }
   }
 ]
